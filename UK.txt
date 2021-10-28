@@ -1,0 +1,800 @@
+city - London , population - 7,556,900
+
+city - Birmingham , population - 984,333
+
+city - Liverpool , population - 864,122
+
+city - Nottingham , population - 729,977
+
+city - Sheffield , population - 685,368
+
+city - Bristol , population - 617,280
+
+city - Glasgow , population - 591,620
+
+city - Leicester , population - 508,916
+
+city - Edinburgh , population - 464,990
+
+city - Leeds , population - 455,123
+
+city - Cardiff , population - 447,287
+
+city - Manchester , population - 395,515
+
+city - Stoke-on-Trent , population - 372,775
+
+city - Coventry , population - 359,262
+
+city - Sunderland , population - 335,415
+
+city - Birkenhead , population - 325,264
+
+city - Islington , population - 319,143
+
+city - Reading , population - 318,014
+
+city - Kingston upon Hull , population - 314,018
+
+city - Preston , population - 313,332
+
+city - Newport , population - 306,844
+
+city - Swansea , population - 300,352
+
+city - Bradford , population - 299,310
+
+city - Southend-on-Sea , population - 295,310
+
+city - Belfast , population - 274,770
+
+city - Derby , population - 270,468
+
+city - Plymouth , population - 260,203
+
+city - Luton , population - 258,018
+
+city - Wolverhampton , population - 252,791
+
+city - City of Westminster , population - 247,614
+
+city - Southampton , population - 246,201
+
+city - Blackpool , population - 239,409
+
+city - Milton Keynes , population - 229,941
+
+city - Bexley , population - 228,000
+
+city - Northampton , population - 215,963
+
+city - Archway , population - 215,667
+
+city - Norwich , population - 213,166
+
+city - Dudley , population - 199,059
+
+city - Aberdeen , population - 196,670
+
+city - Portsmouth , population - 194,150
+
+city - Newcastle upon Tyne , population - 192,382
+
+city - Sutton , population - 187,600
+
+city - Swindon , population - 185,609
+
+city - Crawley , population - 180,508
+
+city - Ipswich , population - 178,835
+
+city - Wigan , population - 175,405
+
+city - Croydon , population - 173,314
+
+city - Walsall , population - 172,141
+
+city - Mansfield , population - 171,958
+
+city - Oxford , population - 171,380
+
+city - Warrington , population - 165,456
+
+city - Slough , population - 163,777
+
+city - Bournemouth , population - 163,600
+
+city - Peterborough , population - 163,379
+
+city - Cambridge , population - 158,434
+
+city - Doncaster , population - 158,141
+
+city - York , population - 153,717
+
+city - Poole , population - 150,092
+
+city - Gloucester , population - 150,053
+
+city - Burnley , population - 149,422
+
+city - Huddersfield , population - 149,017
+
+city - Telford , population - 147,980
+
+city - Dundee , population - 147,710
+
+city - Blackburn , population - 146,521
+
+city - Basildon , population - 144,859
+
+city - Middlesbrough , population - 142,707
+
+city - Bolton , population - 141,331
+
+city - Stockport , population - 139,052
+
+city - Brighton , population - 139,001
+
+city - West Bromwich , population - 135,618
+
+city - Grimsby , population - 134,160
+
+city - Hastings , population - 133,422
+
+city - High Wycombe , population - 133,204
+
+city - Watford , population - 125,707
+
+city - Saint Peters , population - 125,370
+
+city - Burton upon Trent , population - 122,199
+
+city - Colchester , population - 121,859
+
+city - Eastbourne , population - 118,219
+
+city - Exeter , population - 117,763
+
+city - Rotherham , population - 117,618
+
+city - Cheltenham , population - 116,447
+
+city - Lincoln , population - 114,879
+
+city - Chesterfield , population - 113,057
+
+city - Chelmsford , population - 111,511
+
+city - Mendip , population - 110,000
+
+city - Dagenham , population - 108,368
+
+city - Basingstoke , population - 107,642
+
+city - Maidstone , population - 107,627
+
+city - Sutton Coldfield , population - 107,030
+
+city - Bedford , population - 106,940
+
+city - Oldham , population - 104,782
+
+city - Enfield Town , population - 103,970
+
+city - Woking , population - 103,932
+
+city - St Helens , population - 102,555
+
+city - Worcester , population - 101,659
+
+city - Gillingham , population - 101,187
+
+city - Becontree , population - 100,000
+
+city - Worthing , population - 99,110
+
+city - Rochdale , population - 97,550
+
+city - Solihull , population - 96,267
+
+city - Royal Leamington Spa , population - 95,172
+
+city - Romford , population - 95,000
+
+city - Bath , population - 94,782
+
+city - Harlow , population - 94,365
+
+city - Nuneaton , population - 92,698
+
+city - High Peak , population - 92,600
+
+city - Darlington , population - 92,363
+
+city - Southport , population - 91,703
+
+city - Chester , population - 90,524
+
+city - Stevenage , population - 90,232
+
+city - Wembley , population - 90,045
+
+city - Grays , population - 89,755
+
+city - Harrogate , population - 89,060
+
+city - Hartlepool , population - 88,855
+
+city - Londonderry County Borough , population - 87,153
+
+city - Cannock , population - 86,121
+
+city - Hemel Hempstead , population - 85,629
+
+city - St Albans , population - 84,561
+
+city - South Shields , population - 83,655
+
+city - Derry , population - 83,652
+
+city - Weston-super-Mare , population - 82,903
+
+city - Halifax , population - 82,624
+
+city - Redditch , population - 82,253
+
+city - Beckenham , population - 82,000
+
+city - Tamworth , population - 81,964
+
+city - Scunthorpe , population - 79,977
+
+city - Stockton-on-Tees , population - 79,957
+
+city - Wakefield , population - 78,978
+
+city - Carlisle , population - 78,470
+
+city - Gateshead , population - 77,649
+
+city - Lisburn , population - 77,506
+
+city - Fylde , population - 76,500
+
+city - Paisley , population - 76,220
+
+city - Bracknell , population - 76,103
+
+city - Newcastle under Lyme , population - 75,794
+
+city - Battersea , population - 75,651
+
+city - Crewe , population - 75,556
+
+city - Chatham , population - 75,509
+
+city - Hove , population - 75,174
+
+city - Aylesbury , population - 74,748
+
+city - East Kilbride , population - 74,740
+
+city - Canary Wharf , population - 73,390
+
+city - Rugby , population - 73,150
+
+city - Salford , population - 72,750
+
+city - Purley , population - 72,000
+
+city - Guildford , population - 71,873
+
+city - Shrewsbury , population - 71,715
+
+city - Peckham , population - 71,552
+
+city - Barnsley , population - 71,447
+
+city - Lowestoft , population - 70,945
+
+city - Gosport , population - 70,793
+
+city - Southall , population - 70,000
+
+city - Stafford , population - 69,217
+
+city - Royal Tunbridge Wells , population - 68,910
+
+city - Ellesmere Port , population - 67,768
+
+city - Rossendale , population - 67,400
+
+city - Folkestone , population - 66,429
+
+city - Brixton , population - 66,300
+
+city - Wrexham , population - 65,692
+
+city - Torquay , population - 65,388
+
+city - Maidenhead , population - 64,831
+
+city - Kingswood , population - 64,793
+
+city - Taunton , population - 64,621
+
+city - Waterlooville , population - 64,350
+
+city - Macclesfield , population - 63,954
+
+city - Bognor Regis , population - 63,885
+
+city - Newtownabbey , population - 63,860
+
+city - Kettering , population - 63,675
+
+city - Buckley , population - 63,576
+
+city - Great Yarmouth , population - 63,434
+
+city - Runcorn , population - 62,872
+
+city - Ashford , population - 62,787
+
+city - Tonypandy , population - 62,545
+
+city - Scarborough , population - 61,749
+
+city - Widnes , population - 61,464
+
+city - Aldershot , population - 61,339
+
+city - Bury , population - 61,044
+
+city - Barking , population - 61,000
+
+city - Castleford , population - 60,509
+
+city - Hereford , population - 60,415
+
+city - Bangor , population - 60,385
+
+city - Stroud , population - 60,155
+
+city - Margate , population - 60,134
+
+city - Chelsea , population - 60,000
+
+city - Loughborough , population - 59,932
+
+city - Welwyn Garden City , population - 59,910
+
+city - Farnborough , population - 59,902
+
+city - Rhondda , population - 59,450
+
+city - Craigavon , population - 59,236
+
+city - Wallasey , population - 58,794
+
+city - Littlehampton , population - 58,714
+
+city - Bridgend , population - 58,380
+
+city - Bootle , population - 57,791
+
+city - Weymouth , population - 57,691
+
+city - Fareham , population - 57,390
+
+city - Morley , population - 57,385
+
+city - Cheshunt , population - 57,374
+
+city - Kidderminster , population - 57,059
+
+city - Corby , population - 56,810
+
+city - Dartford , population - 56,694
+
+city - Castlereagh , population - 56,679
+
+city - Dewsbury , population - 56,640
+
+city - Livingston , population - 56,570
+
+city - Stourbridge , population - 56,284
+
+city - Sale , population - 55,689
+
+city - Halesowen , population - 55,265
+
+city - Canterbury , population - 55,240
+
+city - South Croydon , population - 55,198
+
+city - Huyton , population - 54,738
+
+city - Barry , population - 54,673
+
+city - Gravesend , population - 54,263
+
+city - Eastleigh , population - 54,225
+
+city - Acton , population - 53,689
+
+city - Washington , population - 53,526
+
+city - Braintree , population - 53,477
+
+city - Hamilton , population - 53,200
+
+city - Brentwood , population - 52,586
+
+city - Esher , population - 52,392
+
+city - Crosby , population - 52,140
+
+city - Reigate , population - 52,123
+
+city - Dunstable , population - 51,973
+
+city - Morecambe , population - 51,644
+
+city - Cumbernauld , population - 51,610
+
+city - Redhill , population - 51,559
+
+city - Horsham , population - 51,472
+
+city - Staines , population - 51,040
+
+city - Batley , population - 50,807
+
+city - Wellingborough , population - 50,577
+
+city - Clacton-on-Sea , population - 50,548
+
+city - Dunfermline , population - 50,380
+
+city - Bletchley , population - 50,193
+
+city - Keighley , population - 50,171
+
+city - Hayes , population - 50,000
+
+city - Paignton , population - 49,886
+
+city - Llanelli , population - 49,591
+
+city - Kirkcaldy , population - 49,460
+
+city - Bromsgrove , population - 49,117
+
+city - Sittingbourne , population - 48,948
+
+city - South Benfleet , population - 48,824
+
+city - Banbury , population - 48,651
+
+city - West Bridgford , population - 48,314
+
+city - Mitcham , population - 48,311
+
+city - Morden , population - 48,233
+
+city - Cwmbran , population - 48,157
+
+city - Long Eaton , population - 47,898
+
+city - Durham , population - 47,785
+
+city - Northwich , population - 47,421
+
+city - Ayr , population - 47,190
+
+city - Perth , population - 47,180
+
+city - Lancaster , population - 47,162
+
+city - Tipton , population - 47,000
+
+city - Inverness , population - 46,870
+
+city - Kilmarnock , population - 46,350
+
+city - Banstead , population - 46,280
+
+city - Neath , population - 46,126
+
+city - King's Lynn , population - 46,093
+
+city - Winchester , population - 46,074
+
+city - Barrow in Furness , population - 45,865
+
+city - Yeovil , population - 45,784
+
+city - Middleton , population - 45,589
+
+city - Havant , population - 45,574
+
+city - Carshalton , population - 45,525
+
+city - Hinckley , population - 45,249
+
+city - Salisbury , population - 44,748
+
+city - Pontefract , population - 44,710
+
+city - Coatbridge , population - 43,970
+
+city - Sutton in Ashfield , population - 43,912
+
+city - Grantham , population - 43,833
+
+city - Merthyr Tydfil , population - 43,820
+
+city - Great Sankey , population - 43,793
+
+city - Greenock , population - 43,690
+
+city - Ashton-under-Lyne , population - 43,675
+
+city - Leigh , population - 43,626
+
+city - Leatherhead , population - 43,544
+
+city - Letchworth Garden City , population - 43,529
+
+city - Newark on Trent , population - 43,363
+
+city - Worksop , population - 43,252
+
+city - Bury St Edmunds , population - 42,812
+
+city - Kirkby , population - 42,744
+
+city - Wallsend , population - 42,739
+
+city - Redruth , population - 42,690
+
+city - Welling , population - 42,500
+
+city - Christchurch , population - 42,396
+
+city - Andover , population - 42,276
+
+city - Stretford , population - 41,953
+
+city - Dover , population - 41,709
+
+city - Hatfield , population - 41,677
+
+city - Altrincham , population - 41,548
+
+city - Coity , population - 41,352
+
+city - Newburn , population - 41,347
+
+city - Boston , population - 41,340
+
+city - Holloway , population - 41,329
+
+city - Lytham St Annes , population - 41,327
+
+city - Bridgwater , population - 41,276
+
+city - Urmston , population - 41,198
+
+city - Wokingham , population - 41,143
+
+city - Swadlincote , population - 40,960
+
+city - Trowbridge , population - 40,952
+
+city - Prescot , population - 40,889
+
+city - Bexhill-on-Sea , population - 40,478
+
+city - Bloxwich , population - 40,000
+
+city - Ewell , population - 39,994
+
+city - North Shields , population - 39,747
+
+city - Glenrothes , population - 39,100
+
+city - Skelmersdale , population - 38,944
+
+city - Fleet , population - 38,726
+
+city - Abingdon , population - 38,676
+
+city - Tonbridge , population - 38,657
+
+city - Ramsgate , population - 38,624
+
+city - Ilkeston , population - 38,587
+
+city - Coalville , population - 38,245
+
+city - Canvey Island , population - 38,170
+
+city - Surbiton , population - 38,158
+
+city - Whitley Bay , population - 38,055
+
+city - Greenford , population - 38,000
+
+city - Arnold , population - 37,873
+
+city - Houghton-Le-Spring , population - 37,840
+
+city - Bishops Stortford , population - 37,838
+
+city - Leyland , population - 37,614
+
+city - Rushden , population - 37,584
+
+city - Leighton Buzzard , population - 37,469
+
+city - Yeadon , population - 37,379
+
+city - Blyth , population - 37,339
+
+city - Eccles , population - 37,275
+
+city - Redcar , population - 37,203
+
+city - Airdrie , population - 37,130
+
+city - Peterlee , population - 37,015
+
+city - Farnham , population - 36,971
+
+city - Chester-le-Street , population - 36,917
+
+city - Great Malvern , population - 36,770
+
+city - Herne Bay , population - 36,642
+
+city - Wilmslow , population - 36,617
+
+city - Newton Abbot , population - 36,474
+
+city - Stirling , population - 36,440
+
+city - Mangotsfield , population - 36,427
+
+city - Billericay , population - 36,338
+
+city - Chipping Sodbury , population - 36,108
+
+city - Hitchin , population - 36,099
+
+city - Walkden , population - 35,937
+
+city - Tyldesley , population - 35,932
+
+city - Chippenham , population - 35,800
+
+city - Billingham , population - 35,708
+
+city - Pontypool , population - 35,686
+
+city - Accrington , population - 35,318
+
+city - Falkirk , population - 35,310
+
+city - Briton Ferry , population - 35,179
+
+city - Hoddesdon , population - 35,174
+
+city - Bridlington , population - 35,154
+
+city - Bentley , population - 34,821
+
+city - Exmouth , population - 34,432
+
+city - Yate , population - 34,406
+
+city - Felling , population - 34,355
+
+city - Colwyn Bay , population - 34,284
+
+city - Radcliffe , population - 34,239
+
+city - Totton , population - 34,169
+
+city - Letchworth , population - 33,955
+
+city - Chorley , population - 33,888
+
+city - Bicester , population - 33,846
+
+city - Haywards Heath , population - 33,845
+
+city - Irvine , population - 33,740
+
+city - Wigston Magna , population - 33,720
+
+city - Wednesfield , population - 33,555
+
+city - Strood , population - 33,381
+
+city - Windsor , population - 33,348
+
+city - Dumfries , population - 33,280
+
+city - Glossop , population - 33,243
+
+city - Cramlington , population - 33,180
+
+city - Pudsey , population - 33,109
+
+city - Ebbw Vale , population - 33,068
+
+city - Newbury , population - 33,065
+
+city - Wickford , population - 32,975
+
+city - Lichfield , population - 32,877
+
+city - Brighouse , population - 32,872
+
+city - Darwen , population - 32,566
+
+city - Wisbech , population - 32,489
+
+city - Aston , population - 32,286
+
+city - Borehamwood , population - 32,176
+
+city - Prestwich , population - 32,125
+
+city - Motherwell , population - 32,120
+
+city - Cleethorpes , population - 32,017
+
+city - Deeside , population - 32,000
+
+city - Shirley , population - 32,000
+
+city - Lower Earley , population - 32,000
+
+city - Falmouth , population - 31,988
+
+city - Hyde , population - 31,926
+
+city - Chichester , population - 31,654
+
+city - Barnstaple , population - 31,616
+
+city - Spalding , population - 31,588
+
+city - Rutherglen , population - 31,180
+
+city - Thornton-Cleveleys , population - 31,157
+
+city - Aberdare , population - 31,135
+
+city - Caerphilly , population - 31,060
+
+city - Ruislip , population - 31,000
+
+city - Saint Neots , population - 30,811
+
+city - Burgess Hill , population - 30,635
+
+city - Beverley , population - 30,587
+
+city - Deal , population - 30,555
+
+city - Wishaw , population - 30,510
+
+city - Pontypridd , population - 30,420
+
+city - Winsford , population - 30,259
+
